@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "aws.s3.bucket.name",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.name'"
+  },
+  {
+    "name": "aws.s3.bucket.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.prefix'"
+  },
+  {
+    "name": "aws.s3.bucket.user",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.user'"
+  },
+  {
+    "name": "aws.s3.bucket.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket.region'"
+  },
+  {
+    "name": "aws.acess.key_id",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.acess.key_id'"
+  },
+  {
+    "name": "aws.secret_access_key",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secret_access_key'"
+  }
+]}
